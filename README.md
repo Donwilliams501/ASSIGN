@@ -1,4 +1,6 @@
 my first python project 
+                   
+                   BY ANTHONY KENNETH ANSO
 
 1. Ask for the user’s first name and display the output message
           Hello [First Name] . 
